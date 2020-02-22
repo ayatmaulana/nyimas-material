@@ -1,13 +1,3 @@
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Guest Book </title>
-</head>
-<body>
-  
   <div>
     Nama: <input type="text" id="nama" /><br />
     Email: <input type="email" id="email" /><br />
@@ -18,7 +8,8 @@
 
     <br /><br />
     <h1>Daftar Buku tamu</h1>
-    <div id="guest-book-list"></div>
+    <div id="guest-book-list"> 
+    </div>
   </div>
 
   <script>
@@ -27,20 +18,14 @@
       var email = document.getElementById('email').value;
       var pesan = document.getElementById('pesan').value;
 
-      var htmlTempate = `
+      var htmlTemplate = `
         <ul>
           <li>Nama: ${nama}</li>
           <li>Email: ${email}</li>
           <li>Pesan: ${pesan}</li>
         </ul> 
       `
-
       var oldValue = document.getElementById('guest-book-list').innerHTML;
-
-      document.getElementById('guest-book-list').innerHTML = oldValue + htmlTempate;
-
+      document.getElementById('guest-book-list').innerHTML = oldValue + htmlTemplate;
     });
   </script>
-
-</body>
-</html>
