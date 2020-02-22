@@ -150,7 +150,7 @@ img{
 
 > #  Semua berubah ketika ~~Negara Api~~ **NodeJS** Menyerang
 
-![width:600](https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png)
+![center](https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png)
 
 ---
 #  You can find 10000xxxxx1 Javascript Module or Anything U Want  On NPMJS.ORG
@@ -227,66 +227,15 @@ console.log('Hello From Javascript');
 ![bg](https://media.giphy.com/media/ARH12W5IVAbni/giphy.gif)
 
 ---
+
 4. ✅ Open Your Console
 
 ![width:1000](https://user-images.githubusercontent.com/20509355/75047724-d7109700-54f9-11ea-8e39-ad621a2dd1be.png)
 
-
----
-
-```html
-<div>
-  <p id="paragrap">Ini Paragraf</p>
-</div>
-
-<script>
-
-var element = document.getElementById("paragrap");
-
-</script>
-
-```
 ---
 
 
-# Next Demo
-
-1. Learn JS Syntax
-1. DOM Manipulation with jQuery
-2. DOM Manipulation with VanillaJS
-3. Implemeted OWL.js
-4. 
-
-
----
-
-![bg right](https://picsum.photos/720?image=3)
-<!-- ![bg](https://picsum.photos/720?image=20) -->
-
-# Split + Multiple BGs
-
-The space of a slide content will shrink to the left side.
-
-
----
-
-![bg left](https://picsum.photos/720?image=29)
-
-# Split backgrounds
-
-The space of a slide content will shrink to the right side.
-
-
----
-
-![bg left:33%](https://picsum.photos/720?image=27)
-
-> #  Semua berubah ketika ~~Negara Api~~ **NodeJS** Menyerang
-
-
----
-
-# Javascript Syntax
+# Next Javascript Syntax
 
 - Data Type and Variable
 - If Else Logic
@@ -295,3 +244,13 @@ The space of a slide content will shrink to the right side.
 - returned Function
 - Event Driver
 - Asynchonous
+
+---
+
+# Next Demo
+
+1. Learn JS Syntax
+2. DOM Manipulation with VanillaJS
+3. DOM Manipulation with jQuery
+4. Any Request ?
+
